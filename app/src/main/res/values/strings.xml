@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">metricconverter</string>
+    <string name="Metricconverter">Metric Converter</string>
+    <string name="converter">Convert</string>
+    <string name="Entervalue">Enter value</string>
+    <string name="MetricConverter">Metric Converter</string>
+    <string name="EnterValue">Enter value</string>
+    <string name="Convert">Convert</string>
+</resources>
